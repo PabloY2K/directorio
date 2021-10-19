@@ -1,4 +1,4 @@
-def YEAR_WEEK = new Date().format("yymm").toInteger()
+def YEAR_WEEK = new Date().format("yyww").toInteger()
 def DAY = new Date().format("u").toInteger()
 def HOUR_MINUTE = new Date().format("HHmm").toInteger()
 
