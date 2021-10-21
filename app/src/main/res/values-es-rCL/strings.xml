@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCN Phonebook</string>
+    <string name="acra_dialog_comment">Lo siento, la aplicacion presenta dificultades\nPorfavor envie un reporte a los desarrolladores\nPuedes agregar un comentario aca:</string>
+    <string name="acra_dialog_title">Dejo de Funcionar</string>
+</resources>

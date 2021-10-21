@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Directorio</string>
+    <string name="app_name">UCN Phonebook</string>
+    <string name="acra_dialog_title">Crash !!</string>
+    <string name="acra_dialog_comment">Sorry, the application crashed.\n Please send a report to the developers.\nYou can add a comment here:</string>
+    <string name="app_title">@string/app_name</string>
+    <string name="app_subtitle">Universidad Catolica del Norte</string>
+
 </resources>
