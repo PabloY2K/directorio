@@ -2,6 +2,9 @@ package cl.ucn.disc.dsm.directorio;
 
 import android.app.Application;
 import android.content.Context;
+
+import androidx.appcompat.app.AppCompatDelegate;
+
 import org.acra.ACRA;
 import org.acra.config.CoreConfigurationBuilder;
 import org.acra.config.DialogConfigurationBuilder;
@@ -42,5 +45,7 @@ public class App extends Application {
 
         //The following Line triggers the initialization of ACRA
         ACRA.init(this, builder);
+
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_AUTO_BATTERY);
     }
 }
