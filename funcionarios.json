@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 21,
+    "nombre": "Guillermo Baltazar Chong Diaz",
+    "cargo": "Director Museo Geológico Humberto Fuenzalida",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "gchong@ucn.cl",
+    "telefono": "Fono (55) 2355745",
+    "oficina": "Pab. A",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 24,
+    "nombre": "Lautaro Nunez Atencio",
+    "cargo": "Académico",
+    "unidad": "Instituto de Investigaciones Arqueológicas y Museo",
+    "email": "lnunez@ucn.cl",
+    "telefono": "Fono (55) 2851066",
+    "oficina": "",
+    "direccion": "Instituto de Investigaciones Arqueológicas y Museo R.P. Gustavo Le paige, San Pedro de Atacama - Chile"
+  },
+  {
+    "id": 29,
+    "nombre": "Julio Alberto Vasquez Castro",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "jvasquez@ucn.cl",
+    "telefono": "Fono (51) 2209809",
+    "oficina": "EDIF. X / OF. 34",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 50,
+    "nombre": "Tomas Segundo Avila Rodriguez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "tavila@ucn.cl",
+    "telefono": "Fono (55) 2355582",
+    "oficina": "Pab. N Ofic. 202",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 110,
+    "nombre": "Luisa Thelma Valdivia Bernal",
+    "cargo": "Jefa de Sección Control y Mantención de Laboratorio Químico",
+    "unidad": "Facultad de Ciencias",
+    "email": "luisaval@ucn.cl",
+    "telefono": "Fono (55) 2355609",
+    "oficina": "Pab. Ñ2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 114,
+    "nombre": "Armando Felipe Mujica Retamal",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "amujica@ucn.cl",
+    "telefono": "Fono (51) 2209775",
+    "oficina": "EDIF. X / OF. 58",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 116,
+    "nombre": "Eduardo Manuel Farias Medalla",
+    "cargo": "Coordinador de Eventos",
+    "unidad": "Dirección de Servicios",
+    "email": "efarias@ucn.cl",
+    "telefono": "Fono (55) 2355365",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 142,
+    "nombre": "Carlos Roberto Pon Soto",
+    "cargo": "Director de Departamento",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "cpon@ucn.cl",
+    "telefono": "Fono (55) 2355136",
+    "oficina": "Pab. Y-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 146,
+    "nombre": "Marcia Rosa Rojas Silva",
+    "cargo": "Jefa de Carrera",
+    "unidad": "Facultad de Ciencias",
+    "email": "mrojas@ucn.cl",
+    "telefono": "Fono (55) 2355573",
+    "oficina": "Pab. N Ofic. 203",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 152,
+    "nombre": "Osvaldo Andres Contreras Pallero",
+    "cargo": "Técnico Instrumentista",
+    "unidad": "Facultad de Ciencias",
+    "email": "oscontreras@ucn.cl",
+    "telefono": "Fono (55) 2355523",
+    "oficina": "Pab. J-2 Ofic. 107",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 155,
+    "nombre": "Jose Fernando Echevarria Ateca",
+    "cargo": "Decano",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "jechever@ucn.cl",
+    "telefono": "Fono (55)2355426",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 163,
+    "nombre": "Pedro Arturo Jorge Jensen Iglesias",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "ajensen@ucn.cl",
+    "telefono": "Fono (55) 2355949",
+    "oficina": "Pab. W Ofic. 303",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 163,
+    "nombre": "Pedro Arturo Jorge Jensen Iglesias",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "ajensen@ucn.cl",
+    "telefono": "Fono (55) 2355949",
+    "oficina": "Pab. W Ofic. 303",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 165,
+    "nombre": "Rolando Adrian Meneses Ciuffardi",
+    "cargo": "Académico",
+    "unidad": "Escuela de Arquitectura",
+    "email": "rmeneses@ucn.cl",
+    "telefono": "Fono (55) 2355399",
+    "oficina": "Pab. D",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 178,
+    "nombre": "Jorge Fernando Olivares Manriquez",
+    "cargo": "Ayudante Administrativo",
+    "unidad": "Dirección de Comunicaciones y Admisión",
+    "email": "jolivare@ucn.cl",
+    "telefono": "Fono (55) 2355081",
+    "oficina": "Pab. J - 1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 186,
+    "nombre": "Karin Berta Lohrmann Sheffield",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "klohrman@ucn.cl",
+    "telefono": "Fono (51) 2209813",
+    "oficina": "EDIF. X / OF. 43",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 187,
+    "nombre": "Cristina Irene Budinich Cortada",
+    "cargo": "Encargada de Servicios On Line",
+    "unidad": "Unidad de Computación",
+    "email": "cbudinic@ucn.cl",
+    "telefono": "Fono (51) 2209834",
+    "oficina": "EDIF. K / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 189,
+    "nombre": "Enzo Hector Acuna Soto",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "eacuna@ucn.cl",
+    "telefono": "Fono (51) 2209814",
+    "oficina": "EDIF. X / OF. 47",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 192,
+    "nombre": "Maria Angelica Alfaro Duran",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "dacuacul@ucn.cl",
+    "telefono": "Fono (51) 2209765",
+    "oficina": "EDIF. X / OF. 03",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 193,
+    "nombre": "Juan Andres Music Tomicic",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "jmusic@ucn.cl",
+    "telefono": "Fono (55) 2355274",
+    "oficina": "Pab. Y-3 Ofic. 216",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 200,
+    "nombre": "Jaime Alfonso Llanos Silva",
+    "cargo": "Director de Departamento",
+    "unidad": "Facultad de Ciencias",
+    "email": "jllanos@ucn.cl",
+    "telefono": "Fono (55) 2355417",
+    "oficina": "Pab. Ñ",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 203,
+    "nombre": "Zoila Ada Josefina Fernandez Miranda",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias",
+    "email": "zfernand@ucn.cl",
+    "telefono": "Fono (55) 2355579",
+    "oficina": "Pab. N Ofic. 405",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 204,
+    "nombre": "Jorge Bernardo Omerovic Pavlov",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "jomerovi@ucn.cl",
+    "telefono": "Fono (55) 2355258",
+    "oficina": "Pab. Y-3 Ofic. 207",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 217,
+    "nombre": "Walter Leopoldo Roldan Latorre",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "wroldan@ucn.cl",
+    "telefono": "Fono (55) 2355200",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 223,
+    "nombre": "Wolfgang Bernardo Stotz Uslar",
+    "cargo": "Secretario De Investigacion De Sede",
+    "unidad": "Vicerrectoría de Sede",
+    "email": "investigación.sede@ucn.cl",
+    "telefono": "Fono (51)2209703",
+    "oficina": "P-A00",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 225,
+    "nombre": "Luis Alberto Olmos Duran",
+    "cargo": "Jefe Sección Transporte y Evento",
+    "unidad": "Dirección de Servicios",
+    "email": "lolmos@ucn.cl",
+    "telefono": "Fono (55) 2355374",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 226,
+    "nombre": "Jorge Alberto Enrique Tabilo Alvarez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "jtabilo@ucn.cl",
+    "telefono": "Fono (55) 2355002",
+    "oficina": "Pab. L Oficina: 306",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 227,
+    "nombre": "Slavko Pedro Stijepcic Grossi",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Dirección de Servicios",
+    "email": "sstijepc@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 228,
+    "nombre": "Raul Enrique Carrasco Cea",
+    "cargo": "Académico",
+    "unidad": "Escuela de Ingeniería",
+    "email": "rcarrasc@ucn.cl",
+    "telefono": "Fono (51) 2206877",
+    "oficina": "EDIF. X / OF. 310",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 232,
+    "nombre": "Alex Milton Covarrubias Aranda",
+    "cargo": "Director de Departamento",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "acovarru@ucn.cl",
+    "telefono": "Fono (55) 2355425",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 233,
+    "nombre": "Miguel Gabriel Murphy Gonzalez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "mmurphy@ucn.cl",
+    "telefono": "Fono (55) 23555514",
+    "oficina": "Pab. J",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 236,
+    "nombre": "Gary Rockey Diaz Gonzalez",
+    "cargo": "Jefe de Oficina Servicios Docentes",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "serdoc@ucn.cl",
+    "telefono": "Fono (51) 2209743",
+    "oficina": "EDIF. U / OF. 110",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 238,
+    "nombre": "Jaime Patricio Gonzalez Gonzalez",
+    "cargo": "Jefe de Oficina Área de Mar",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "pg@ucn.cl",
+    "telefono": "Fono (51) 2209740",
+    "oficina": "EDIF. S2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 239,
+    "nombre": "Juan Emilio Macchiavello Armengol",
+    "cargo": "Decano",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "jmacchia@ucn.cl",
+    "telefono": "Fono (51)2209735",
+    "oficina": "Edif. J, of. 221",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 242,
+    "nombre": "Maria Soledad Bembow Seguel",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "mbembow@ucn.cl",
+    "telefono": "Fono (55) 2355968",
+    "oficina": "Pab. W Ofic. 313",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 245,
+    "nombre": "Oscar Orlando Rojas Cazaluade",
+    "cargo": "Director de Departamento",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "orojas@ucn.cl",
+    "telefono": "Fono (55) 2355465",
+    "oficina": "Pab. H Ofic. 205",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 251,
+    "nombre": "Raul Alberto Vera Contreras",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "rvera@ucn.cl",
+    "telefono": "Fono (51) 2209811",
+    "oficina": "EDIF. X / OF. 54",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 260,
+    "nombre": "Artemio Francisco Cortes Jofre",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "arcortes@ucn.cl",
+    "telefono": "Fono (55) 2355989",
+    "oficina": "Pab. U",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 263,
+    "nombre": "Hector Juan Soza Pollman",
+    "cargo": "Académico",
+    "unidad": "Escuela de Ingeniería",
+    "email": "hsoza@ucn.cl",
+    "telefono": "Fono (51) 2209785",
+    "oficina": "Edif. X Of. 320",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 263,
+    "nombre": "Hector Juan Soza Pollman",
+    "cargo": "Académico",
+    "unidad": "Escuela de Ingeniería",
+    "email": "hsoza@ucn.cl",
+    "telefono": "Fono (51) 2209785",
+    "oficina": "Edif. X Of. 320",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 268,
+    "nombre": "Jorge Fernando Rojo Munoz",
+    "cargo": "Kinesiólogo",
+    "unidad": "Dirección General Estudiantil",
+    "email": "jrojo@ucn.cl",
+    "telefono": "Fono (55) 2355993",
+    "oficina": "Pab. M",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 273,
+    "nombre": "Hector Ricardo Flores Gatica",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "hflores@ucn.cl",
+    "telefono": "Fono (51) 2209804",
+    "oficina": "EDIF. X OF. 47",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 278,
+    "nombre": "Myrian Patricia Galleguillos Rodriguez",
+    "cargo": "Analista Estados Financieros",
+    "unidad": "Dirección de Finanzas",
+    "email": "mgallegu@ucn.cl",
+    "telefono": "Fono (55) 2355014",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 280,
+    "nombre": "Jose Antonio Salvador Gonzalez Pizarro",
+    "cargo": "Director de Escuela",
+    "unidad": "Facultad de Ciencias Juridicas",
+    "email": "jagonzal@ucn.cl",
+    "telefono": "Fono (55) 265710",
+    "oficina": "Pab. X-7",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 282,
+    "nombre": "Mauricio Antonio Diaz Ogalde",
+    "cargo": "Jefe Sección Servicios Generales",
+    "unidad": "Servicios Del Campus",
+    "email": "mdiazo@ucn.cl",
+    "telefono": "Fono (51) 2209887",
+    "oficina": "EDIF. Ñ / OF. 111",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 283,
+    "nombre": "Gaston Armando Peralta Rojas",
+    "cargo": "Encargado Recursos Docentes",
+    "unidad": "Direccion General de Pregrado",
+    "email": "gperalta@ucn.cl",
+    "telefono": "Fono (55) 2355348",
+    "oficina": "Pab. C",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 284,
+    "nombre": "Eduardo Verdejo Green",
+    "cargo": "Jefe de Sección Deportes y Recreación",
+    "unidad": "Dirección General Estudiantil",
+    "email": "everdejo@ucn.cl",
+    "telefono": "Fono (55) 2355992",
+    "oficina": "Pab. B-2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 286,
+    "nombre": "Gerardo Antonio Pino Escobar",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Dirección de Servicios",
+    "email": "gpino@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 288,
+    "nombre": "Leonardo Jose Romero Aranguiz",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "leon@ucn.cl",
+    "telefono": "Fono (55) 2355603",
+    "oficina": "Pab. U",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 290,
+    "nombre": "Federico Emilio Winkler Manns",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "fwinkler@ucn.cl",
+    "telefono": "Fono (51) 2209794",
+    "oficina": "EDIF. X / OF. 45",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 290,
+    "nombre": "Federico Emilio Winkler Manns",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "fwinkler@ucn.cl",
+    "telefono": "Fono (51) 2209794",
+    "oficina": "EDIF. X / OF. 45",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 295,
+    "nombre": "Maria Esperanza Galvez Estay",
+    "cargo": "Directora de Departamento",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "mgalvez@ucn.cl",
+    "telefono": "Fono (55) 2355910",
+    "oficina": "Pab. U",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 296,
+    "nombre": "Victor Hugo Kesternich Martinez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "vkestern@ucn.cl",
+    "telefono": "Fono (55) 2355621",
+    "oficina": "Pab. Ñ",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 299,
+    "nombre": "Hernan Manuel Vicuna Cabezas",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Servicios Del Campus",
+    "email": "vicuna@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 300,
+    "nombre": "Camilo Enrique Neira Chancay",
+    "cargo": "Encargado de Servicio de Custodia de Bienes y Almacenajes",
+    "unidad": "Dirección de Servicios",
+    "email": "cneira@ucn.cl",
+    "telefono": "Fono (55) 2355675",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 302,
+    "nombre": "Luis Alberto Araya Henriquez",
+    "cargo": "Coordinador de Laboratorio",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "luaraya@ucn.cl",
+    "telefono": "Fono (55) 265 1028",
+    "oficina": "PABELLÓN O-1 OFICINA 103",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 306,
+    "nombre": "Robert Alex Sepulveda Castillo",
+    "cargo": "Administrador Proyectos Educativos",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "rsepulve@ucn.cl",
+    "telefono": "Fono (55) 2355319",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 308,
+    "nombre": "Asaf Lucila Araya Fernandez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Dirección de Finanzas",
+    "email": "asaf@ucn.cl",
+    "telefono": "Fono (55) 2355007",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 312,
+    "nombre": "Nidia Elisa Bugueno Montano",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "nbugueno@ucn.cl",
+    "telefono": "Fono (51) 2209756",
+    "oficina": "EDIF. X2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 314,
+    "nombre": "Heleny Rosita Mendiz Rojas",
+    "cargo": "Académica",
+    "unidad": "Facultad de Humanidades",
+    "email": "hmendiz@ucn.cl",
+    "telefono": "Fono (55) 2355081",
+    "oficina": "Pab. J, Ofic. 213",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 316,
+    "nombre": "Andre Marie Hubert Robinet",
+    "cargo": "Director de Departamento",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "ahubert@ucn.cl",
+    "telefono": "Fono (55)2355890",
+    "oficina": "Pab. X1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 317,
+    "nombre": "Domingo Javier Espinoza Gonzalez",
+    "cargo": "Encargado de Servicio de Vehículos",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "despinoza@ucn.cl",
+    "telefono": "Fono (51) 2209948",
+    "oficina": "EDIF. Y /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 320,
+    "nombre": "Oscar Armando Ortiz Pimentel",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "oortiz@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 321,
+    "nombre": "Matias Angel Perez Silva",
+    "cargo": "Técnico en Mantención",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "mtperez@ucn.cl",
+    "telefono": "Fono (51) 2209756",
+    "oficina": "EDIF. X2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 326,
+    "nombre": "Luis Andres Opazo Mancilla",
+    "cargo": "Encargado Administrativo",
+    "unidad": "Facultad de Medicina",
+    "email": "lopazo@ucn.cl",
+    "telefono": "Fono (51) 2206809",
+    "oficina": "EDIF. E2 / OF. 113",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 330,
+    "nombre": "Eliana Margot Godoy Cortez",
+    "cargo": "Técnico en Análisis Químico",
+    "unidad": "Facultad de Ciencias",
+    "email": "elgodoy@ucn.cl",
+    "telefono": "Fono (55) 2355613",
+    "oficina": "Pab. Ñ",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 331,
+    "nombre": "Pedro Hernan Caceres Ramos",
+    "cargo": "Encargado de Servicio de Custodia de Bienes y Almacenajes",
+    "unidad": "Servicios Del Campus",
+    "email": "pcaceres@ucn.cl",
+    "telefono": "Fono (51) 2209902",
+    "oficina": "EDIF. Ñ / OF.",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 335,
+    "nombre": "Claudio Daniel Miranda Perez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "cdmirand@ucn.cl",
+    "telefono": "Fono (51) 2209762",
+    "oficina": "EDIF. X / OF. 35",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 336,
+    "nombre": "Mercedes Del Carmen Gallardo Letelier",
+    "cargo": "Asistente Ejecutivo",
+    "unidad": "Secretaría General",
+    "email": "mgallard@ucn.cl",
+    "telefono": "Fono (55) 2355065",
+    "oficina": "Pab. L Ofic. 312",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 337,
+    "nombre": "Loreto Soraya Fabiola Telgie Bendek",
+    "cargo": "Académica",
+    "unidad": "Escuela de Ingeniería",
+    "email": "ltelgie@ucn.cl",
+    "telefono": "Fono (51) 2206888",
+    "oficina": "EDIF. X / OF. 318",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 338,
+    "nombre": "Rosauro Eduardo Contreras Calvo",
+    "cargo": "",
+    "unidad": "Dirección de Servicios",
+    "email": "rocontre@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 340,
+    "nombre": "Eduardo Alberto Fierro Morales",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "efierro@ucn.cl",
+    "telefono": "Fono (55) 2355581",
+    "oficina": "Pab. N Oficina N-206",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 347,
+    "nombre": "Edelmira Delfina Galvez Ahumada",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "egalvez@ucn.cl",
+    "telefono": "Fono (55) 265 1016",
+    "oficina": "PABELLÓN O-1 OFICINA 312",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 350,
+    "nombre": "Carlos Alberto Solar Mondaca",
+    "cargo": "Jefe de Sección Laboratorio de Cultivos",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "csolar@ucn.cl",
+    "telefono": "Fono (51) 2209756",
+    "oficina": "EDIF. X2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 353,
+    "nombre": "Wilma Del Rosario Ramirez Martinez",
+    "cargo": "Encargada de Beneficios y Convenios",
+    "unidad": "Dirección de Recursos Humanos",
+    "email": "wramirez@ucn.cl",
+    "telefono": "Fono (55) 2355411",
+    "oficina": "Pab. Z",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 355,
+    "nombre": "Maria Cecilia Hernandez Vera",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "mhernan@ucn.cl",
+    "telefono": "Fono (55) 235 5031",
+    "oficina": "PABELLÓN L",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 356,
+    "nombre": "Orlando Dario Castro Campusano",
+    "cargo": "Director de Análisis Institucional",
+    "unidad": "Coordinación General de Desarrollo Estratégico y Calidad",
+    "email": "ocastro@ucn.cl",
+    "telefono": "Fono (55)2355061",
+    "oficina": "Pab. L, of. 311",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 359,
+    "nombre": "German Valentino Pizarro Gonzalez",
+    "cargo": "Asistente de Investigación",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "gpizarro@ucn.cl",
+    "telefono": "Fono (51) 2209918",
+    "oficina": "EDIF. AA / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 360,
+    "nombre": "Oriana Veronica Contreras Figueroa",
+    "cargo": "Secretaria Directiva",
+    "unidad": "Facultad de Ciencias",
+    "email": "ocontreras@ucn.cl",
+    "telefono": "Fono (55) 2355482",
+    "oficina": "Pab. I Ofic. 207",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 361,
+    "nombre": "Dima Hilda Morales Diaz",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "dmorales@ucn.cl",
+    "telefono": "Fono (55) 2355139",
+    "oficina": "Pab. Y-1 Ofic. 208-A",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 364,
+    "nombre": "Jose Norberto Guerra Ramirez",
+    "cargo": "Director de Escuela",
+    "unidad": "Escuela de Arquitectura",
+    "email": "jguerra@ucn.cl",
+    "telefono": "Fono (55) 2355431",
+    "oficina": "Pab. D",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 365,
+    "nombre": "Alejandro Rodolfo Galleguillos Pereira",
+    "cargo": "Técnico de Soporte y Redes",
+    "unidad": "Dirección de Informática",
+    "email": "agallegu@ucn.cl",
+    "telefono": "Fono (55) 2355930",
+    "oficina": "Pab. V Ofic. 107",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 368,
+    "nombre": "Fernando Douglas Ramos Diaz",
+    "cargo": "Técnico de Mantenimiento",
+    "unidad": "Dirección de Proyectos de Infraestructura",
+    "email": "framos@ucn.cl",
+    "telefono": "Fono (55) 2355681",
+    "oficina": "Pab. S",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 373,
+    "nombre": "Guillermo Patricio Cantellano Gonzalez",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "gcantell@ucn.cl",
+    "telefono": "Fono (51) 2209882",
+    "oficina": "EDIF. L / OF. 301",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 379,
+    "nombre": "Mauricio Anibal Reyes Pizarro",
+    "cargo": "Estafeta",
+    "unidad": "Dirección de Servicios",
+    "email": "mreyesp@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 380,
+    "nombre": "Pilar Ximena Gonzalez Gonzalez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Escuela de Educación",
+    "email": "pgonzale@ucn.cl",
+    "telefono": "Fono (55) 2355823",
+    "oficina": "Pab. X-1 Ofic. 312",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 381,
+    "nombre": "Jose Alberto Gallardo Arancibia",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "jgallardo@ucn.cl",
+    "telefono": "Fono (55) 2355157",
+    "oficina": "Pab. Y-1 Ofic. 211",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 382,
+    "nombre": "Carlos Marcelo Romero Reyes",
+    "cargo": "Administrador de Deportes y Recreación",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "cmromero@ucn.cl",
+    "telefono": "Fono (51) 2209860",
+    "oficina": "EDIF. M / OF. 112",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 383,
+    "nombre": "Joanna Cristi Vines Krstulovic",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Direccion General de Pregrado",
+    "email": "jvines@ucn.cl",
+    "telefono": "Fono (55) 2355346",
+    "oficina": "Pab. C Ofic. 314",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 384,
+    "nombre": "Bernardino Javier Gallardo Araya",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "bgallard@ucn.cl",
+    "telefono": "Fono (55) 2355316",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 385,
+    "nombre": "Carlos Humberto Requena Fabrega",
+    "cargo": "Técnico de Mantenimiento",
+    "unidad": "Dirección de Proyectos de Infraestructura",
+    "email": "crequena@ucn.cl",
+    "telefono": "Fono (55) 2355682",
+    "oficina": "Pab. S",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 388,
+    "nombre": "Luis Herminio Pereira Chavez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "lpereira@ucn.cl",
+    "telefono": "Fono (51) 2209772",
+    "oficina": "EDIF. X / OF. 42",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 389,
+    "nombre": "Ana Ruth Pizarro Ibacache",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "apizarro@ucn.cl",
+    "telefono": "Fono (51) 2209873",
+    "oficina": "EDIF. L / OF. 401",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 390,
+    "nombre": "Helmo Eduardo Perez Ortiz",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "heperez@ucn.cl",
+    "telefono": "Fono (51) 2209742",
+    "oficina": "EDIF. Y /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 391,
+    "nombre": "Mirtha Gumercinda Cortes Chipriano",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "mgcortes@ucn.cl",
+    "telefono": "Fono (51) 2209950",
+    "oficina": "EDIF. C / OF. 107",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 394,
+    "nombre": "Guillermo Segundo Luna Jorquera",
+    "cargo": "Director Magíster en Ciencias del Mar Mención Recursos Costeros",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "gluna@ucn.cl",
+    "telefono": "Fono (51) 2209816",
+    "oficina": "EDIF. X / OF. 43",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 397,
+    "nombre": "Claudio Galeno Ibaceta",
+    "cargo": "Académico",
+    "unidad": "Escuela de Arquitectura",
+    "email": "cgaleno@ucn.cl",
+    "telefono": "Fono (55) 2355184",
+    "oficina": "Pab. D Of 102",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 398,
+    "nombre": "Juan Manuel Vega Donoso",
+    "cargo": "Asistente Administrativo",
+    "unidad": "Dirección de Finanzas",
+    "email": "jvega@ucn.cl",
+    "telefono": "Fono (55) 2355020",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 399,
+    "nombre": "Maria Cristina Morales Suazo",
+    "cargo": "Secret.Inv.Ext. y Asist. Técnica",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "mcmorale@ucn.cl",
+    "telefono": "Fono (51) 2205903",
+    "oficina": "EDIF. X / OF. 48",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 400,
+    "nombre": "Nibaldo Antonio Olivares Coz",
+    "cargo": "Encargado Colecciones Generales",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "nolivare@ucn.cl",
+    "telefono": "Fono (51) 2209874",
+    "oficina": "EDIF. Q1 / OF. 308",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 400,
+    "nombre": "Nibaldo Antonio Olivares Coz",
+    "cargo": "Encargado Colecciones Generales",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "nolivare@ucn.cl",
+    "telefono": "Fono (51) 2209874",
+    "oficina": "EDIF. Q1 / OF. 308",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 401,
+    "nombre": "Mario Angel Vega Herrera",
+    "cargo": "Custodio",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "mvegah@ucn.cl",
+    "telefono": "Fono (55) 2351610",
+    "oficina": "Biblioteca Antofagasta",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 402,
+    "nombre": "Julia Maria Taborga Perez",
+    "cargo": "Secretaria Asistente",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "magister@ucn.cl",
+    "telefono": "Fono (51) 2209744",
+    "oficina": "EDIF. X / OF. 01",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 404,
+    "nombre": "Richard Nelson Urzua Luz",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "rurzua@ucn.cl",
+    "telefono": "Fono (55) 2355584",
+    "oficina": "Pab. N Ofic. 204",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 405,
+    "nombre": "Elvira Isabel Badilla Poblete",
+    "cargo": "Vicerrectora de Sede",
+    "unidad": "Vicerrectoría de Sede",
+    "email": "ebadilla@ucn.cl",
+    "telefono": "Fono (51)2209701",
+    "oficina": "P-A00, of. 201",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 406,
+    "nombre": "Juan Didier Cardenas Barrios",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "jcardena@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 410,
+    "nombre": "Jose Luis San Pedro Carvajal",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "jsanped@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 411,
+    "nombre": "Roberto Luis Garry Campos",
+    "cargo": "Chofer",
+    "unidad": "Servicios Del Campus",
+    "email": "rgarry@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. Ñ / OF. 118",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 416,
+    "nombre": "Juan Claudio Pereira Alvarez",
+    "cargo": "Ayudante de Recursos Docentes",
+    "unidad": "Admisión y Registro Curricular",
+    "email": "jupereir@ucn.cl",
+    "telefono": "Fono (55) 2355684",
+    "oficina": "Pab. Ext L",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 421,
+    "nombre": "Sergio Esteban Curilef Huichalaf",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "scurilef@ucn.cl",
+    "telefono": "Fono (55) 2355520",
+    "oficina": "Pab. J-2 Ofic. 421",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 424,
+    "nombre": "Gabriela Erika Llewellyn Llewellyn",
+    "cargo": "Coordinadora de Admisión",
+    "unidad": "Vicerrectoría de Sede",
+    "email": "gllewell@ucn.cl",
+    "telefono": "Fono (51) 2209821",
+    "oficina": "EDIF. A / OF. 221",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 425,
+    "nombre": "Juan Carlos Egana Arancibia",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "jegana@ucn.cl",
+    "telefono": "Fono (55) 2355592",
+    "oficina": "Pab. N Ofic. 213, 2º piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 426,
+    "nombre": "Luis Armando Angel Diaz",
+    "cargo": "Técnico de Mantenimiento",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "langel@ucn.cl",
+    "telefono": "Fono (55) 2355981",
+    "oficina": "Pab. U",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 427,
+    "nombre": "Melida Del Carmen Barrios Herrera",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "mbarrios@ucn.cl",
+    "telefono": "Fono (55) 2355746",
+    "oficina": "Pab. X-10 Ofic. 463",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 429,
+    "nombre": "Doris Mariana Romero Romero",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "dromero@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 430,
+    "nombre": "Paula Contreras Garay",
+    "cargo": "Académica",
+    "unidad": "Facultad de Humanidades",
+    "email": "pcontreras@ucn.cl",
+    "telefono": "Fono (55) 2355853",
+    "oficina": "Pab. X-2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 431,
+    "nombre": "Carlos Andres Quispe Quispe",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "cquispe@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 433,
+    "nombre": "Osciel Beltran Guerrero Gajardo",
+    "cargo": "Encargado de Registro",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "oguerrer@ucn.cl",
+    "telefono": "Fono (51) 2209728",
+    "oficina": "EDIF. A / OF. 108",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 437,
+    "nombre": "Gladys Del Carmen Vidal Abarca",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "gvidal@ucn.cl",
+    "telefono": "Fono (55) 2355968",
+    "oficina": "Pab. W",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 441,
+    "nombre": "Sonia Alicia Godoy Olivares",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "sgodoy@ucn.cl",
+    "telefono": "Fono (51) 2209789",
+    "oficina": "EDIF. J1 / OF. 123",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 442,
+    "nombre": "Rodrigo Fernando Alda Varas",
+    "cargo": "Rector",
+    "unidad": "Rectoría",
+    "email": "rector@ucn.cl",
+    "telefono": "Fono (55)2355002 - (55)2355003",
+    "oficina": "Pab. L 3°piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 444,
+    "nombre": "Viviana Elsa Vargas Larraguibel",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "vvargas@ucn.cl",
+    "telefono": "Fono (51) 2209871",
+    "oficina": "EDIF. L / OF. 400",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 445,
+    "nombre": "Marcela Patricia Diaz Perez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "madiaz@ucn.cl",
+    "telefono": "Fono (55) 2355912",
+    "oficina": "Pab. U",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 446,
+    "nombre": "Jorge Luis Alfaro Perez",
+    "cargo": "Secretario de Investigación",
+    "unidad": "Escuela de Ingeniería",
+    "email": "jalfaro@ucn.cl",
+    "telefono": "Fono (51) 2206830",
+    "oficina": "Edif. X / Of. 307",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 449,
+    "nombre": "Freddy Del Carmen Gonzalez Avila",
+    "cargo": "Asistente de Embarcaciones y Buzo",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "fcgonzal@ucn.cl",
+    "telefono": "Fono (51) 2209740",
+    "oficina": "GARITA MUELLE",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 452,
+    "nombre": "Pedro Antonio Sapiain Varas",
+    "cargo": "Asistente De Operaciones",
+    "unidad": "Liemun",
+    "email": "psapiain@ucn.cl",
+    "telefono": "Fono (55) 2355439",
+    "oficina": "Pab. H",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 453,
+    "nombre": "Elizabeth Johanna Lam Esquenazi",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "elam@ucn.cl",
+    "telefono": "Fono (55) 2355907",
+    "oficina": "Pab. U Ofic. 101",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 455,
+    "nombre": "Eric Artemio Munoz Acosta",
+    "cargo": "Encargado Operacional",
+    "unidad": "Dirección de Proyectos de Infraestructura",
+    "email": "ermunoz@ucn.cl",
+    "telefono": "Fono (55)2 355101",
+    "oficina": "Pab. S-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 456,
+    "nombre": "Carlos Freddy Miranda Zuleta",
+    "cargo": "Secretario Académico",
+    "unidad": "Escuela de Arquitectura",
+    "email": "cmiranda@ucn.cl",
+    "telefono": "Fono (55) 2355397",
+    "oficina": "Pab. D",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 458,
+    "nombre": "Fernando Octavio Alvarez Rojas",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "fealvarez@ucn.cl",
+    "telefono": "Fono (55) 2355945",
+    "oficina": "Pab. W",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 459,
+    "nombre": "Juan Marcos Bellsham Castillo",
+    "cargo": "Encargado Colecciones Alta Demanda",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "mbellsha@ucn.cl",
+    "telefono": "Fono (51) 2209883",
+    "oficina": "EDIF. L1 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 461,
+    "nombre": "Daniza Marisol Flores Bonilla",
+    "cargo": "Administradora de Recaudación otros Servicios",
+    "unidad": "Dirección de Finanzas",
+    "email": "dflores@ucn.cl",
+    "telefono": "Fono (55) 2355378",
+    "oficina": "Pab. I",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 462,
+    "nombre": "Roberto Del Rosario Vega Araya",
+    "cargo": "Estafeta - Campus Clínicos",
+    "unidad": "Facultad de Medicina",
+    "email": "vega@ucn.cl",
+    "telefono": "Fono (51) 2209827",
+    "oficina": "EDIF. S2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 466,
+    "nombre": "Mario Enrique Espinoza Araya",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "mespinoz@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 467,
+    "nombre": "Guillermo Jesus Araya Saavedra",
+    "cargo": "Capataz de Mantención de Áreas Verdes",
+    "unidad": "Dirección de Servicios",
+    "email": "garaya@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 470,
+    "nombre": "Rita Celmira Alvarez Romero",
+    "cargo": "Analista de Presupuesto",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "ralvarez@ucn.cl",
+    "telefono": "Fono (51) 2209719",
+    "oficina": "EDIF. A / OF. 108",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 472,
+    "nombre": "Wilson Zuñiga Olivares",
+    "cargo": "Académico",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "wzuniga@ucn.cl",
+    "telefono": "Fono (55) 2355803",
+    "oficina": "Pab. X-9",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 473,
+    "nombre": "Veronica Palominos Vasquez",
+    "cargo": "Jefa de Biblioteca Coquimbo",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "vpalomin@ucn.cl",
+    "telefono": "Fono (51) 2209870",
+    "oficina": "EDIF. L / OF. 409",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 475,
+    "nombre": "Modesto Gervasio Leyton Flores",
+    "cargo": "Estafeta",
+    "unidad": "Dirección de Servicios",
+    "email": "mleyton@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 476,
+    "nombre": "Maximo Alex Sepulveda Concha",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "masepulv@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 477,
+    "nombre": "Bernardo Antonio San Martin Rebolledo",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "sanmarti@ucn.cl",
+    "telefono": "Fono (55) 2355585",
+    "oficina": "Pab. N Ofic. 212, 2º piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 478,
+    "nombre": "Veronica Alejandra Nunez Jeria",
+    "cargo": "Asistente Ejecutivo",
+    "unidad": "Vicerrectoría de Asuntos Económicos y Administrativos",
+    "email": "veronica@ucn.cl",
+    "telefono": "Fono (55) 2355006",
+    "oficina": "Pab. L Ofic. 215",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 479,
+    "nombre": "Nelson Del Carmen Llanca Oyarce",
+    "cargo": "Administrador de Desarrollo Académico",
+    "unidad": "Dirección de Análisis y Gestión vra",
+    "email": "nllanca@ucn.cl",
+    "telefono": "Fono (55) 2355070",
+    "oficina": "Pab. Ext L Ofic. 318",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 480,
+    "nombre": "Ximena Cortes Nunez",
+    "cargo": "Encargada de Cobranzas",
+    "unidad": "Dirección de Finanzas",
+    "email": "xcortes@ucn.cl",
+    "telefono": "Fono (55) 2355336",
+    "oficina": "Pab. I",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 483,
+    "nombre": "Alejandro Gregorio Tabilo Vega",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Servicios Del Campus",
+    "email": "tabilo@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 484,
+    "nombre": "Richard Heriberto Pallero Ramirez",
+    "cargo": "Jefe de Sección Soporte y Laboratorio",
+    "unidad": "Unidad de Computación",
+    "email": "rpallero@ucn.cl",
+    "telefono": "Fono (51) 2209830",
+    "oficina": "EDIF. K / OF. 203",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 488,
+    "nombre": "Susana Graciela Gutierrez Dinamarca",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Dirección General Estudiantil",
+    "email": "sgutierr@ucn.cl",
+    "telefono": "Fono (55) 2355995",
+    "oficina": "Pab. B-2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 492,
+    "nombre": "Jorge Luis Garcia Acuna",
+    "cargo": "Encargado de Laboratorio Preparación de Muestras",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "jgarcia@ucn.cl",
+    "telefono": "Fono (55) 2355243",
+    "oficina": "Pab. Ext W",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 493,
+    "nombre": "Francisco Ramon Correa Schnake",
+    "cargo": "Director de Departamento",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "fcorrea@ucn.cl",
+    "telefono": "Fono (51) 2209961",
+    "oficina": "EDIF. C / OF. 207",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 494,
+    "nombre": "Sergio Arturo Alfaro Malatesta",
+    "cargo": "Académico",
+    "unidad": "Escuela de Arquitectura",
+    "email": "salfaro@ucn.cl",
+    "telefono": "Fono (55) 2651793",
+    "oficina": "Pab. K",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 496,
+    "nombre": "Alejandro Eduardo Alvarez Rojas",
+    "cargo": "Chofer de Facultades",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "aalvarezr@ucn.cl",
+    "telefono": "Fono (55) 2355243",
+    "oficina": "Pab. W",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 497,
+    "nombre": "Patricio Javier Rodriguez Figueroa",
+    "cargo": "Técnico de Soporte y Redes",
+    "unidad": "Unidad de Computación",
+    "email": "prodrig@ucn.cl",
+    "telefono": "Fono (51) 2209836",
+    "oficina": "EDIF. K / OF. 205",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 501,
+    "nombre": "Luis Mauricio Collado Molina",
+    "cargo": "Encargado Operacional",
+    "unidad": "Servicios Del Campus",
+    "email": "lcollado@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. Ñ / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 502,
+    "nombre": "Marisol Sabina Flores Mamani",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Dirección de Finanzas",
+    "email": "mflores@ucn.cl",
+    "telefono": "Fono (55) 2355008",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 503,
+    "nombre": "Monica Alejandra Pinones Fajardo",
+    "cargo": "Encargada de Carrera",
+    "unidad": "Admisión y Registro Curricular",
+    "email": "mpinones@ucn.cl",
+    "telefono": "Fono (51) 2209820",
+    "oficina": "EDIF. F / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 504,
+    "nombre": "Marisol Genoveva Martinez Diaz",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ciencias",
+    "email": "secreta@ucn.cl",
+    "telefono": "Fono (55) 2355597",
+    "oficina": "Pab. N Ofic. 218",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 505,
+    "nombre": "Erica Del Carmen Diaz Lopez",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "ediaz@ucn.cl",
+    "telefono": "Fono (55) 2851066",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 507,
+    "nombre": "Patricio Enrique Tapia Gutierrez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "ptapia@ucn.cl",
+    "telefono": "Fono (55) 2355268",
+    "oficina": "Pab. Y-3",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 509,
+    "nombre": "Juan Alberto Diaz Maldonado",
+    "cargo": "Capataz de Servicio de Aseo",
+    "unidad": "Dirección de Servicios",
+    "email": "judiaz@ucn.cl",
+    "telefono": "Fono (55) 2355676",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 510,
+    "nombre": "Antonio Mauricio Lopez Castillo",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "nutricion@ucn.cl",
+    "telefono": "Fono (51) 2205980",
+    "oficina": "EDIF. Y /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 517,
+    "nombre": "Marlene Del Carmen Julio Vega",
+    "cargo": "Secretaria Directiva",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "mjulio@ucn.cl",
+    "telefono": "Fono (51) 2209736",
+    "oficina": "EDIF. J1 / OF. 207",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 520,
+    "nombre": "Susana Ester Arancibia Carvajal",
+    "cargo": "Directora Centro de Innovación Metodológico y Tecnológico - CIMET",
+    "unidad": "Centro de Innovación Metodológica y Tecnológica",
+    "email": "saranci@ucn.cl",
+    "telefono": "Fono (55)2355214",
+    "oficina": "Pab. P1, of. 310",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 526,
+    "nombre": "Maria Ines Albina Cortes",
+    "cargo": "Encargada de Titulos y Grados",
+    "unidad": "Secretaría General",
+    "email": "maines@ucn.cl",
+    "telefono": "Fono (55) 2355069",
+    "oficina": "Pab. L Ofic. 316",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 532,
+    "nombre": "Luis Segundo Alvarado Acuna",
+    "cargo": "Jefe de Carrera",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "lualvar@ucn.cl",
+    "telefono": "Fono (55) 2355464",
+    "oficina": "Pabellón H3, Segundo Piso, Oficina 204",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 536,
+    "nombre": "Hernan Leonardo Reyes Perez",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "hreyes@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 541,
+    "nombre": "Vladimir Del Rosario Palacios Leyton",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Servicios Del Campus",
+    "email": "vpalacios@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 542,
+    "nombre": "Monica Graciela Salazar Orrego",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "msalazar@ucn.cl",
+    "telefono": "Fono (55) 2355801",
+    "oficina": "Pab. X-9 Ofic. 202",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 544,
+    "nombre": "Mercedes Elisa Godoy Cortes",
+    "cargo": "Secretaria Directiva",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "egodoy@ucn.cl",
+    "telefono": "Fono (55) 2355775",
+    "oficina": "Pab. X-9",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 550,
+    "nombre": "Yerko Petri Radic Astudillo",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "yrradic@ucn.cl",
+    "telefono": "Fono (55) 2355314",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 552,
+    "nombre": "Marcia Angelica Diaz Baez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "mdiazb@ucn.cl",
+    "telefono": "Fono (51) 2209716",
+    "oficina": "EDIF. A / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 554,
+    "nombre": "Jose Fabian Castillo Lillo",
+    "cargo": "Dibujante y Apoyo Técnico",
+    "unidad": "Dirección de Proyectos de Infraestructura",
+    "email": "jocasti@ucn.cl",
+    "telefono": "Fono (55) 2355101",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 555,
+    "nombre": "Victor Andres Pincheira Argandona",
+    "cargo": "Periodista",
+    "unidad": "Dirección de Comunicaciones y Admisión",
+    "email": "vpinchei@ucn.cl",
+    "telefono": "Fono (55) 2355688",
+    "oficina": "Pab. J - 1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 557,
+    "nombre": "Lorenzo Bernabe Ramirez Aguirre",
+    "cargo": "Jefe Departamento Soporte y Redes",
+    "unidad": "Dirección de Informática",
+    "email": "lorami@ucn.cl",
+    "telefono": "Fono (55) 2355928",
+    "oficina": "Pab. V1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 559,
+    "nombre": "Guillermo Rodolfo Montecinos Fabres",
+    "cargo": "Asistente de Bodega",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "serdoc@ucn.cl",
+    "telefono": "Fono (51) 2209743",
+    "oficina": "EDIF. U / OF. 109",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 560,
+    "nombre": "Walter Terrazas Nunez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Humanidades",
+    "email": "wterraza@ucn.cl",
+    "telefono": "Fono (55) 2355824",
+    "oficina": "Pab. X-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 563,
+    "nombre": "Angelica Esther Ossandon Carrizo",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Escuela de Ingeniería",
+    "email": "aossandon@ucn.cl",
+    "telefono": "Fono (51) 2209709",
+    "oficina": "EDIF. X / OF. 310",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 567,
+    "nombre": "Juan Carlos Mercado Rojas",
+    "cargo": "Encargado Administrativo",
+    "unidad": "Facultad de Medicina",
+    "email": "jmercado@ucn.cl",
+    "telefono": "Fono (51) 2209853",
+    "oficina": "EDIF. J / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 570,
+    "nombre": "Luz Marcela Ildefonso Cruz",
+    "cargo": "Jefa Departamento Sistemas de Información",
+    "unidad": "Dirección de Informática",
+    "email": "lildefon@ucn.cl",
+    "telefono": "Fono (55) 2355937.",
+    "oficina": "Pab. V Ofic. 126",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 571,
+    "nombre": "Brenda Jacquelyne Arias Flores",
+    "cargo": "Asistente Ejecutivo",
+    "unidad": "Vicerrectoría de Investigación y Desarrollo Tecnológico",
+    "email": "barias@ucn.cl",
+    "telefono": "Fono (55) 2355031",
+    "oficina": "Pab. L 2º piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 572,
+    "nombre": "Juan Carlos Flores Cortes",
+    "cargo": "Buzo",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "jflores@ucn.cl",
+    "telefono": "Fono (51) 2209740",
+    "oficina": "EDIF. S2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 574,
+    "nombre": "Joel Francisco Barraza Soto",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "jbarraza@ucn.cl",
+    "telefono": "Fono (51) 2209769",
+    "oficina": "EDIF. X / OF. 42",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 575,
+    "nombre": "Ricardo Enrique Calabacero Perez",
+    "cargo": "Encargado de Carrera",
+    "unidad": "Direccion General de Pregrado",
+    "email": "rcalabac@ucn.cl",
+    "telefono": "Fono (55) 2355340",
+    "oficina": "Pab. O",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 578,
+    "nombre": "Ronald Williams Del Canto Munoz",
+    "cargo": "Encargado Base Datos Usuarios",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "rdcanto@ucn.cl",
+    "telefono": "Fono (51) 2209883",
+    "oficina": "EDIF. L1 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 579,
+    "nombre": "Yanira Del Carmen Zarrias Astudillo",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "yzarrias@ucn.cl",
+    "telefono": "Fono (51) 2209949",
+    "oficina": "EDIF. J1 / OF. 210",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 580,
+    "nombre": "Jacqueline Isabel Avalos Fuenzalida",
+    "cargo": "Secretaria Directiva",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "javalos@ucn.cl",
+    "telefono": "Fono (55) 2355425",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 581,
+    "nombre": "Emilia Del Rosario Palma Quiroz",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Escuela de Arquitectura",
+    "email": "epalma@ucn.cl",
+    "telefono": "Fono (55) 2355391",
+    "oficina": "Pab. D, Of. 100",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 582,
+    "nombre": "Ana Maria Bugueno Richard",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "abugueno@ucn.cl",
+    "telefono": "Fono (51) 2209859",
+    "oficina": "EDIF. M / OF. 111",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 583,
+    "nombre": "Marta Ivonne Saez Fernandez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "masaez@ucn.cl",
+    "telefono": "Fono (55) 2355452",
+    "oficina": "Pab. H Ofic. 202",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 592,
+    "nombre": "Valeska Rosa Diaz Lopez",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "vdiaz@ucn.cl",
+    "telefono": "Fono (55) 2355313",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 593,
+    "nombre": "Manuel Leonidas Araya Saavedra",
+    "cargo": "Técnico de Mantenimiento",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "maraya@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 599,
+    "nombre": "Jose Luis Villalobos Villalobos",
+    "cargo": "Capataz de Patio",
+    "unidad": "Servicios Del Campus",
+    "email": "jvilla@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. Ñ / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 601,
+    "nombre": "Manuel Andrés Estay Meyer",
+    "cargo": "Ingeniero de Estudios y Proyectos de Tecnologías de la Información y Comunicaciones",
+    "unidad": "Dirección de Informática",
+    "email": "mestay@ucn.cl",
+    "telefono": "Fono (55) 235 5636",
+    "oficina": "Pab. V",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 604,
+    "nombre": "Paulina Ester Castillo Elgueda",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Servicios Del Campus",
+    "email": "pcastillo@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. Ñ / OF. 118",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 605,
+    "nombre": "Francisco Javier Collado Molina",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "fcollado@ucn.cl",
+    "telefono": "Fono (51) 2209883",
+    "oficina": "EDIF. L1 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 609,
+    "nombre": "Marco Antonio Gonzalez Sanchez",
+    "cargo": "Asistente de Bodega",
+    "unidad": "Facultad de Ciencias",
+    "email": "magonzal@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 610,
+    "nombre": "Wellington Pedro Contreras Diaz",
+    "cargo": "Capataz de Servicio de Aseo",
+    "unidad": "Dirección de Servicios",
+    "email": "wcontrer@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 612,
+    "nombre": "Jalil Yerie Ahure Rios",
+    "cargo": "Jefe Departamento Ingeniería de Software",
+    "unidad": "Dirección de Informática",
+    "email": "jahure@ucn.cl",
+    "telefono": "Fono (55) 2355009",
+    "oficina": "Baini",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 613,
+    "nombre": "Juan Demostenes Bekios Calfa",
+    "cargo": "Académico",
+    "unidad": "Escuela de Ingeniería",
+    "email": "juan.bekios@ucn.cl",
+    "telefono": "Fono (55) 2355162",
+    "oficina": "Pab. Y-1 Of. 309",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 615,
+    "nombre": "Pedro David Matamoros Matamoros",
+    "cargo": "Encargado de Compras",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "pmatamoros@ucn.cl",
+    "telefono": "Fono (51) 2209717",
+    "oficina": "EDIF. A / OF. 103",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 619,
+    "nombre": "Patricio Angel Ramirez Flores",
+    "cargo": "Asistente de Oficina de Partes",
+    "unidad": "Dirección de Servicios",
+    "email": "pramirez@ucn.cl",
+    "telefono": "Fono (55) 2355042",
+    "oficina": "Pab. S",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 620,
+    "nombre": "Alfonso Ruperto Urzua Morales",
+    "cargo": "Académico",
+    "unidad": "Facultad de Humanidades",
+    "email": "alurzua@ucn.cl",
+    "telefono": "Fono (55) 2355843",
+    "oficina": "Pab. X-2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 621,
+    "nombre": "Yasna Elliot Santander Soublett",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Dirección General Estudiantil",
+    "email": "yasanta@ucn.cl",
+    "telefono": "Fono (55) 2355055",
+    "oficina": "Pab. M / Of. 308",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 622,
+    "nombre": "Marcela Maritza Miranda Rozas",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Dirección General Estudiantil",
+    "email": "mamiran@ucn.cl",
+    "telefono": "Fono (55) 235 5238",
+    "oficina": "Pab. I",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 624,
+    "nombre": "Alberto Angel Carmona Olmos",
+    "cargo": "Encargado de Correspondencia",
+    "unidad": "Dirección de Servicios",
+    "email": "acarmona@ucn.cl",
+    "telefono": "Fono (55) 2355042",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 625,
+    "nombre": "Ana Maria Inostroza Ramos",
+    "cargo": "Encargada de Decretos y Resoluciones",
+    "unidad": "Secretaría General",
+    "email": "aninostr@ucn.cl",
+    "telefono": "Fono (55) 2355067",
+    "oficina": "Pab. L Ofic. 314",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 626,
+    "nombre": "Marcia Angelica Oliva Arriagada",
+    "cargo": "Encargada de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "moliva@ucn.cl",
+    "telefono": "Fono (51) 2209784",
+    "oficina": "EDIF. X / OF. 11",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 628,
+    "nombre": "Ivonne Ximena Ogalde Puca",
+    "cargo": "Jefa de Departamento Administración de Personal",
+    "unidad": "Dirección de Recursos Humanos",
+    "email": "ivogald@ucn.cl",
+    "telefono": "Fono (55) 2355285",
+    "oficina": "Pab. Z",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 630,
+    "nombre": "Saul Daniel Cervantes Puca",
+    "cargo": "Encargado de Colecciones Biblioteca Iiam",
+    "unidad": "Instituto de Investigaciones Arqueológicas y Museo",
+    "email": "scerva@ucn.cl",
+    "telefono": "Fono (55) 2851066",
+    "oficina": "",
+    "direccion": "Instituto de Investigaciones Arqueológicas y Museo R.P. Gustavo Le paige, San Pedro de Atacama - Chile"
+  },
+  {
+    "id": 632,
+    "nombre": "Carlos Hernan Rojo Zapata",
+    "cargo": "Encargado de Administración y Finanzas",
+    "unidad": "Dirección de Servicios",
+    "email": "crojo@ucn.cl",
+    "telefono": "Fono (55) 2355366",
+    "oficina": "Pab. S-3",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 633,
+    "nombre": "Ivan David Soto Espinoza",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "isoto@ucn.cl",
+    "telefono": "Fono (55) 2355967",
+    "oficina": "Pab. W Ofic. 327",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 636,
+    "nombre": "Cesar Antonio Peralta Carvajal",
+    "cargo": "Chofer",
+    "unidad": "Dirección de Servicios",
+    "email": "ceperalt@ucn.cl",
+    "telefono": "Fono (55) 2355683",
+    "oficina": "Pab. S",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 639,
+    "nombre": "Francis Charlotte Espinoza Figueroa",
+    "cargo": "Académica",
+    "unidad": "Facultad de Humanidades",
+    "email": "frespi@ucn.cl",
+    "telefono": "Fono (55) 2355821",
+    "oficina": "Pab. X-4",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 645,
+    "nombre": "Mario De Dios Pizarro Diaz",
+    "cargo": "Jefe de Turno",
+    "unidad": "Servicios Del Campus",
+    "email": "mdpizarro@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 646,
+    "nombre": "Isaias Alamiro Torrejon Ramirez",
+    "cargo": "Asistente de Oficina de Partes",
+    "unidad": "Servicios Del Campus",
+    "email": "itorrejon@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. F / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 652,
+    "nombre": "Oscar Marcelo Sepulveda Sepúlveda",
+    "cargo": "Académico",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "msepulve@ucn.cl",
+    "telefono": "Fono (51) 2209951",
+    "oficina": "EDIF. C / OF. 108",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 653,
+    "nombre": "Maria Ines Pizarro Cortes",
+    "cargo": "Coordinadora de Relaciones Internacionales",
+    "unidad": "Dirección de Relaciones Institucionales",
+    "email": "mipizarr@ucn.cl",
+    "telefono": "Fono (2) 22226216",
+    "oficina": "Santiago",
+    "direccion": "Avenida Libertador Bernardo O\u0027Higgins 292 OF. 22, Santiago - Chile"
+  },
+  {
+    "id": 655,
+    "nombre": "Claudia Leonor Ramos Berrios",
+    "cargo": "Jefa de Sección Contabilidad Fscu",
+    "unidad": "Administración Fscu",
+    "email": "cramos@ucn.cl",
+    "telefono": "Fono (55) 2355023",
+    "oficina": "Pab. L Ofic. 111",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 656,
+    "nombre": "Jacqueline Paola Olmos Urbina",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Escuela de Arquitectura",
+    "email": "jaolmos@ucn.cl",
+    "telefono": "Fono (55) 2355392",
+    "oficina": "Pab. D",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 657,
+    "nombre": "Pablo Salazar Reinoso",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "pasalaz@ucn.cl",
+    "telefono": "Fono (55) 2355950",
+    "oficina": "Pab. W Ofic. 104 - 320",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 658,
+    "nombre": "Veronica Natalia Alfaro Navarro",
+    "cargo": "Jefa Departamento Estudiantil",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "valfaro@ucn.cl",
+    "telefono": "Fono (51) 2209855",
+    "oficina": "EDIF. M / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 659,
+    "nombre": "Katherine De Lourdes Gomez Gomez",
+    "cargo": "Jefa de Sección Presupuesto",
+    "unidad": "Dirección de Finanzas",
+    "email": "kgomez@ucn.cl",
+    "telefono": "Fono (55) 2355025",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 662,
+    "nombre": "Fernando Antonio Vega Araya",
+    "cargo": "Encargado de Hemeroteca",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "fvega@ucn.cl",
+    "telefono": "Fono (51) 2209875",
+    "oficina": "EDIF. L / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 663,
+    "nombre": "Norma Noelia Flores Arancibia",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Humanidades",
+    "email": "noflores@ucn.cl",
+    "telefono": "Fono (55) 2355822",
+    "oficina": "Pab. X-2 Ofic. 101",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 666,
+    "nombre": "Lorena Monserrat Saldes Jeria",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "lsaldes@ucn.cl",
+    "telefono": "Fono (55) 2355770",
+    "oficina": "Pab. X-10 Ofic. 336",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 670,
+    "nombre": "Isabel Ruth Natalia Cisternas Avalos",
+    "cargo": "Jefa Depto. Recursos Humanos",
+    "unidad": "Liemun",
+    "email": "isacist@ucn.cl",
+    "telefono": "Fono (55)2651729 Axo 1729",
+    "oficina": "Pab. H-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 676,
+    "nombre": "Tatiana Lopez Varela",
+    "cargo": "Jefa de Sección Servicio Social",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "tlopez@ucn.cl",
+    "telefono": "Fono (51) 2209867",
+    "oficina": "EDIF. M / OF. 107",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 677,
+    "nombre": "Eliamara Isabel Arias Flores",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ciencias",
+    "email": "earias@ucn.cl",
+    "telefono": "Fono (55) 2355502",
+    "oficina": "Pab. J-2 Ofic. 109",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 686,
+    "nombre": "Gustavo Andres Concha Moraga",
+    "cargo": "Jefe Departamento Beneficios Estudiantiles",
+    "unidad": "Dirección General Estudiantil",
+    "email": "guconch@ucn.cl",
+    "telefono": "Fono (55) 2355360",
+    "oficina": "Pab. M",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 693,
+    "nombre": "Hector Mauricio Galleguillos Saavedra",
+    "cargo": "Encargado de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "hmgalleg@ucn.cl",
+    "telefono": "Fono (51) 2209756",
+    "oficina": "EDIF. X2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 694,
+    "nombre": "Fabiola Andrea Munoz Pizarro",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Medicina",
+    "email": "fmunoz@ucn.cl",
+    "telefono": "Fono (51) 2209837",
+    "oficina": "EDIF. E / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 701,
+    "nombre": "Sergio Patricio Hernandez Morales",
+    "cargo": "Auditor General",
+    "unidad": "Auditoría General",
+    "email": "shernan@ucn.cl",
+    "telefono": "Fono (55)2355056",
+    "oficina": "Pab. L, of. 301",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 711,
+    "nombre": "Carolina Andrea Fuentes Vega",
+    "cargo": "Secretaria Docente y Estudiantil de Sede",
+    "unidad": "Vicerrectoría de Sede",
+    "email": "cfuentes@ucn.cl",
+    "telefono": "Fono (51)2209710",
+    "oficina": "Edif. A, of. 208",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 713,
+    "nombre": "Sidney Carlos Flores Fibla",
+    "cargo": "Encargado de Carrera",
+    "unidad": "Direccion General de Pregrado",
+    "email": "syflores@ucn.cl",
+    "telefono": "Fono (55) 2355674",
+    "oficina": "Pab. C",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 718,
+    "nombre": "Nelia Mabel Zepeda Flores",
+    "cargo": "Analista Estados Financieros",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "nzepeda@ucn.cl",
+    "telefono": "Fono (51) 2206891",
+    "oficina": "EDIF. A / OF. 108",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 719,
+    "nombre": "Teresa Luzmira Blanco Diaz",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "tblanco@ucn.cl",
+    "telefono": "Fono (51) 2209879",
+    "oficina": "EDIF. M / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 722,
+    "nombre": "Veronica Margot Pizarro Lopez",
+    "cargo": "Encargada Administrativa",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "vpizarro@ucn.cl",
+    "telefono": "Fono (51) 2209787",
+    "oficina": "EDIF. H /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 725,
+    "nombre": "Paloma Elsa Guzman Pallero",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Facultad de Ciencias",
+    "email": "pguzman@ucn.cl",
+    "telefono": "Fono (55) 2355489",
+    "oficina": "Pab. I",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 736,
+    "nombre": "Edith Del Carmen Ramos Aban",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Instituto de Investigaciones Arqueológicas y Museo",
+    "email": "eramos@ucn.cl",
+    "telefono": "Fono (55) 2851066",
+    "oficina": "",
+    "direccion": "Instituto de Investigaciones Arqueológicas y Museo R.P. Gustavo Le paige, San Pedro de Atacama - Chile"
+  },
+  {
+    "id": 742,
+    "nombre": "Karla Lucia Soria Barreto",
+    "cargo": "Académica",
+    "unidad": "Escuela de Ciencias Empresariales",
+    "email": "ksoria@ucn.cl",
+    "telefono": "Fono (51) 2209975",
+    "oficina": "EDIF. D / OF. 213",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 746,
+    "nombre": "Gianni Augusta Romani Chocce",
+    "cargo": "Académica",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "gachocce@ucn.cl",
+    "telefono": "Fono (55) 2355769",
+    "oficina": "Pab. X-10 Oficina 230",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 767,
+    "nombre": "Oscar Guillermo Serrano Jamett",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "oserrano@ucn.cl",
+    "telefono": "Fono (55) 2355456",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 769,
+    "nombre": "Isabel Varela Kawasaki",
+    "cargo": "Jefa de Sección Colecciones Monográficas",
+    "unidad": "Biblioteca Coquimbo",
+    "email": "ivarela@ucn.cl",
+    "telefono": "Fono (51) 2209872",
+    "oficina": "EDIF. L / OF. 202",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 775,
+    "nombre": "Rene Cipriano Iturra Molina",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "riturra@ucn.cl",
+    "telefono": "Fono (55) 2355457",
+    "oficina": "Pab. H Ofic. 208",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 782,
+    "nombre": "Eduardo Eugenio Morales Perez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "emorales@ucn.cl",
+    "telefono": "Fono (55) 2355256",
+    "oficina": "Pab. Y-3 Ofic. 204",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 789,
+    "nombre": "Luis Roberto Chinga Palma",
+    "cargo": "Jefe Departamento Registro Curricular",
+    "unidad": "Admisión y Registro Curricular",
+    "email": "lchinga@ucn.cl",
+    "telefono": "Fono (51) 2209818",
+    "oficina": "EDIF. F / OF. 202",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 790,
+    "nombre": "Marcos Enrique Chait Bollo",
+    "cargo": "Jefe de Carrera",
+    "unidad": "Escuela de Ingeniería",
+    "email": "mchait@ucn.cl",
+    "telefono": "Fono (51) 2206878",
+    "oficina": "EDIF. X / OF. 314",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 792,
+    "nombre": "Sergio Danilo Vladilo Vargas",
+    "cargo": "Secretario Docente",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "svladill@ucn.cl",
+    "telefono": "Fono (55) 2355264",
+    "oficina": "Pab.Y-3 Ofic.213",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 795,
+    "nombre": "Miriam Duyanira Atienzo Soto",
+    "cargo": "Académica",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "matienzo@ucn.cl",
+    "telefono": "Fono (55) 2355766",
+    "oficina": "Pab. X - 10 Ofic. 225",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 800,
+    "nombre": "Alfredo Danilo Gonzalez Leon",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "agonzale@ucn.cl",
+    "telefono": "Fono (55) 2355451",
+    "oficina": "Pab. H",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 802,
+    "nombre": "Maria Luz Fernandez Contreras",
+    "cargo": "Jefa de Carrera",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "mfernand@ucn.cl",
+    "telefono": "Fono (51) 2209778",
+    "oficina": "EDIF. W / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 806,
+    "nombre": "Erika Steller Tello Bianchi",
+    "cargo": "Directora General de Pastoral y Cultura Cristiana",
+    "unidad": "Gran Cancillería",
+    "email": "eritello@ucn.cl",
+    "telefono": "Fono (55)2355530",
+    "oficina": "Pab. K",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 809,
+    "nombre": "Horacio Fernando Ramirez Maturana",
+    "cargo": "Jefe Departamento Desarrollo y Evaluación",
+    "unidad": "Dirección de Recursos Humanos",
+    "email": "hramirez@ucn.cl",
+    "telefono": "Fono (55) 2355280",
+    "oficina": "Pab. Z",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 813,
+    "nombre": "Aurora Del Carmen Sanchez Ortiz",
+    "cargo": "Directora Centro de Investigación en Gestión de Tecnologías para la Empresa, CIGTE",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "asanchez@ucn.cl",
+    "telefono": "Fono (55) 2355761",
+    "oficina": "Pab. X-10 Ofic. 222",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 814,
+    "nombre": "Maria Isabel Plaza Pinones",
+    "cargo": "Encargada de Carrera",
+    "unidad": "Admisión y Registro Curricular",
+    "email": "mplaza@ucn.cl",
+    "telefono": "Fono (51) 2209822",
+    "oficina": "EDIF. F / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 816,
+    "nombre": "Eliana Edith Varas Romero",
+    "cargo": "Secretaria Directiva",
+    "unidad": "Facultad de Humanidades",
+    "email": "evaras@ucn.cl",
+    "telefono": "Fono (55) 2355824",
+    "oficina": "Pab. X-1 Ofic. 209",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 817,
+    "nombre": "Maria Graciela Espejo Malebran",
+    "cargo": "Jefa Sección Administración de Personal",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "mespejo@ucn.cl",
+    "telefono": "Fono (51) 2209720",
+    "oficina": "EDIF. A / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 819,
+    "nombre": "Claudio Juvenal Meneses Villegas",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "cmeneses@ucn.cl",
+    "telefono": "Fono (55) 2355158",
+    "oficina": "Pab. Y-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 820,
+    "nombre": "Lorena Del Carmen Zambrano Jimenez",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Facultad de Economía y Administración",
+    "email": "lzambran@ucn.cl",
+    "telefono": "Fono (55) 2355703",
+    "oficina": "Pab. Z",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 822,
+    "nombre": "German Enrique Merino Araneda",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "gmerino@ucn.cl",
+    "telefono": "Fono (51) 2209767",
+    "oficina": "EDIF. Centro Costero / OF. 2",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 823,
+    "nombre": "Alfredo Mauro Gutierrez Valderrama",
+    "cargo": "Encargado de Registro",
+    "unidad": "Dirección de Finanzas",
+    "email": "agutierr@ucn.cl",
+    "telefono": "Fono (55) 2355015",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 825,
+    "nombre": "Juan Carlos Vargas Torres",
+    "cargo": "Técnico Bibliotecario",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "jvargast@ucn.cl",
+    "telefono": "Fono (55) 2355308",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 826,
+    "nombre": "Isabel Susana Falcon Nunez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "ifalcon@ucn.cl",
+    "telefono": "Fono (55) 2355465",
+    "oficina": "Pab. H Ofic. 220",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 829,
+    "nombre": "Guillermina Del Rosario Herrera Elgueta",
+    "cargo": "Asistente Administrativa",
+    "unidad": "Facultad de Humanidades",
+    "email": "gherrera@ucn.cl",
+    "telefono": "Fono (55) 2355851",
+    "oficina": "Pab. X-3",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 834,
+    "nombre": "Regina Luisa Rojas Paniagua",
+    "cargo": "Jefa Depto. Administración Financiera",
+    "unidad": "Dirección de Finanzas",
+    "email": "rerojas@ucn.cl",
+    "telefono": "Fono (55) 2355011",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 836,
+    "nombre": "Eduardo Avelino Munoz Rojas",
+    "cargo": "Encargado de Carrera",
+    "unidad": "Direccion General de Pregrado",
+    "email": "edmunoz@ucn.cl",
+    "telefono": "Fono (55) 2355364",
+    "oficina": "Pab. C Ofic. 126",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 838,
+    "nombre": "Manuel Alejandro Requena Castro",
+    "cargo": "Encargado Colecciones Especiales",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "mrequena@ucn.cl",
+    "telefono": "Fono (55) 2355304",
+    "oficina": "Pab T 2 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 839,
+    "nombre": "Shoji Kojima",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "skojima@ucn.cl",
+    "telefono": "Fono (55) 2355955",
+    "oficina": "Pab. W Ofic. 326",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 841,
+    "nombre": "Sandra Jannette Lara Vilches",
+    "cargo": "Administradora Proyectos de Planificación y Desarrollo Recursos de Información",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "slara@ucn.cl",
+    "telefono": "Fono (55) 2355307",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 842,
+    "nombre": "Cristian Waldo Cuevas Morales",
+    "cargo": "Auditor Asistente",
+    "unidad": "Auditoría General",
+    "email": "ccuevas@ucn.cl",
+    "telefono": "Fono (55) 2355063",
+    "oficina": "Pab. L Ofic. 310",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 861,
+    "nombre": "Victor Manuel Conejeros Trujillo",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "vconejer@ucn.cl",
+    "telefono": "Fono (55) 265 1015",
+    "oficina": "PABELLÓN O-1 OFICINA 311",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 869,
+    "nombre": "Mario Eduardo Pereira Arredondo",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "mpereira@ucn.cl",
+    "telefono": "Fono (55) 2355227",
+    "oficina": "Pab. W",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 870,
+    "nombre": "Hugo Guillermo Gonzalez Narvaez",
+    "cargo": "Encargado Activo Fijo",
+    "unidad": "Dirección de Finanzas",
+    "email": "hgonzale@ucn.cl",
+    "telefono": "Fono (55) 2355012",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 871,
+    "nombre": "Jorge Barraza Plaza",
+    "cargo": "Guardia de Seguridad Costero",
+    "unidad": "Servicios Del Campus",
+    "email": "jbarrazap@ucn.cl",
+    "telefono": "Fono (51) 2209901",
+    "oficina": "GARITA MUELLE",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 876,
+    "nombre": "Gabriel Armando Gonzalez Lopez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "ggonzale@ucn.cl",
+    "telefono": "Fono (55) 2355952",
+    "oficina": "Pab. W Ofic. 322",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 877,
+    "nombre": "José Roberto Cerda Molina",
+    "cargo": "Encargado de Observación Meteorológica",
+    "unidad": "Facultad de Ciencias",
+    "email": "jocer@ucn.cl",
+    "telefono": "Fono (55) 2355536",
+    "oficina": "Pab. J-2",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 878,
+    "nombre": "Lya Alejandra Rojas Serey",
+    "cargo": "Encargada de Administración y Finanzas",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "lyrojas@ucn.cl",
+    "telefono": "Fono (55) 2355430",
+    "oficina": "Pab. G",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 881,
+    "nombre": "Ricardo Marcial Pérez Sánchez",
+    "cargo": "Jefe de Sección Laboratorio Computacional",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "rperez@ucn.cl",
+    "telefono": "Fono (55) 2355141",
+    "oficina": "Pab. Y-1 Ofic. 209",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 883,
+    "nombre": "Jorge Osvaldo Jofre Olivares",
+    "cargo": "Chofer",
+    "unidad": "Dirección de Servicios",
+    "email": "jjofre@ucn.cl",
+    "telefono": "Fono (55) 2355683",
+    "oficina": "Pab. S",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 884,
+    "nombre": "Elisabeth Veronica Von Brand Skopnik",
+    "cargo": "Directora de Departamento",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "evonbran@ucn.cl",
+    "telefono": "Fono (51) 2209795",
+    "oficina": "EDIF. X / OF. 44",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 885,
+    "nombre": "Carmen Yanett Carvajal Casanga",
+    "cargo": "Jefa de Sección Tesorería",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "tesorcoq@ucn.cl",
+    "telefono": "Fono (51) 2209966",
+    "oficina": "EDIF. A / OF. 116",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 886,
+    "nombre": "Sergio Fernando Zuniga Jara",
+    "cargo": "Académico",
+    "unidad": "Escuela de Ciencias Empresariales",
+    "email": "sz@ucn.cl",
+    "telefono": "Fono 512335839-5699419197",
+    "oficina": "EDIF. D / OF. 215",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 887,
+    "nombre": "Ruth Angelica Lillo Diaz",
+    "cargo": "Encargada de Carrera",
+    "unidad": "Admisión y Registro Curricular",
+    "email": "rlillo@ucn.cl",
+    "telefono": "Fono (51) 2206823",
+    "oficina": "EDIF. F / OF. 102",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 888,
+    "nombre": "Ariel Enrique Areyuna Santiago",
+    "cargo": "Secretario Docente",
+    "unidad": "Escuela de Ingeniería",
+    "email": "aareyuna@ucn.cl",
+    "telefono": "Fono (51) 2206880",
+    "oficina": "EDIF. X / OF. 316",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 889,
+    "nombre": "Carmen Emilia Godoy Cortes",
+    "cargo": "Encargada de Administración de Personal",
+    "unidad": "Dirección de Recursos Humanos",
+    "email": "cgodoy@ucn.cl",
+    "telefono": "Fono (55) 2355288",
+    "oficina": "Pab.Z",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 890,
+    "nombre": "Karina Mabel Castillo Vargas",
+    "cargo": "Jefa de Departamento Contabilidad",
+    "unidad": "Dirección de Finanzas",
+    "email": "kcastil@ucn.cl",
+    "telefono": "Fono (55) 2355010",
+    "oficina": "Pab. L 1 piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 891,
+    "nombre": "Herman Alejandro Diaz Leyton",
+    "cargo": "Jefe Departamento De Informatica",
+    "unidad": "Unidad de Computación",
+    "email": "hdiaz@ucn.cl",
+    "telefono": "Fono (51) 2209828",
+    "oficina": "EDIF. K / OF. 202",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 892,
+    "nombre": "Rodrigo Luis Sfeir Yazigi",
+    "cargo": "Vicerrector de Investigación y Desarrollo Tecnológico",
+    "unidad": "Vicerrectoría de Investigación y Desarrollo Tecnológico",
+    "email": "rsfeir@ucn.cl",
+    "telefono": "Fono (55)2355031 - (55)2209701",
+    "oficina": "Pab. L, of. 205",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 893,
+    "nombre": "Aquiles Esteban Portilla Gaitero",
+    "cargo": "Encargado de Carrera",
+    "unidad": "Direccion General de Pregrado",
+    "email": "aportilla@ucn.cl",
+    "telefono": "Fono (55) 2355350",
+    "oficina": "Pab. C Ofic. 132",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 895,
+    "nombre": "Jorge Octavio Rojo Araya",
+    "cargo": "Encargado de Bodega",
+    "unidad": "Facultad de Ciencias",
+    "email": "jorojo@ucn.cl",
+    "telefono": "Fono (55) 2355178",
+    "oficina": "Pab. Ñ",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 897,
+    "nombre": "Alex Mauricio Maldonado Correa",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Servicios Del Campus",
+    "email": "maldonado@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 899,
+    "nombre": "Juan Elias Huidobro Arabia",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "jhuidobr@ucn.cl",
+    "telefono": "Fono (55) 2355455",
+    "oficina": "Pab. H Ofic. 206",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 901,
+    "nombre": "Cristina Yolanda Calabacero Perez",
+    "cargo": "Asistente de Biblioteca",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "ccalabac@ucn.cl",
+    "telefono": "Fono (55) 2355304",
+    "oficina": "Pab. T",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 902,
+    "nombre": "Gabriel Andres Cruz Carpanchay",
+    "cargo": "Asistente de Laboratorio",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "gcruz@ucn.cl",
+    "telefono": "Fono (55) 2355989",
+    "oficina": "Pab. U-1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 903,
+    "nombre": "Sergio Andres Morales Rivera",
+    "cargo": "Auxiliar Servicios Generales",
+    "unidad": "Dirección de Servicios",
+    "email": "semorale@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 906,
+    "nombre": "Eduardo Arturo Codoceo Medina",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Servicios Del Campus",
+    "email": "codoceo@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 907,
+    "nombre": "Paola Andrea Galleguillos Veliz",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Humanidades",
+    "email": "pagalle@ucn.cl",
+    "telefono": "Fono (55) 2355806",
+    "oficina": "Pab. P - Segundo Piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 908,
+    "nombre": "Reinaldo Antonio Arenas Pereira",
+    "cargo": "Radiocontrol",
+    "unidad": "Red de Radios Sol F.m.",
+    "email": "rarenas@ucn.cl",
+    "telefono": "Fono (55) 2223731",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 910,
+    "nombre": "Claudia Viviana Flores Segura",
+    "cargo": "Encargada de Correspondencia",
+    "unidad": "Servicios Del Campus",
+    "email": "partes@ucn.cl",
+    "telefono": "Fono (51) 2209724",
+    "oficina": "EDIF. Ñ / OF. 107",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 912,
+    "nombre": "Monica Castillo Rosales",
+    "cargo": "Jefa de Sección Servicio Salud",
+    "unidad": "Asuntos Estudiantiles",
+    "email": "mcastill@ucn.cl",
+    "telefono": "Fono (51) 2205981",
+    "oficina": "EDIF. R / OF. 127",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 915,
+    "nombre": "Pedro Hector Toledo Aguero",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "ptoledo@ucn.cl",
+    "telefono": "Fono (51) 2209773",
+    "oficina": "EDIF. X / OF. 46",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 932,
+    "nombre": "Sergio Antonio Casas-cordero Espinoza",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias",
+    "email": "scasas@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 933,
+    "nombre": "Maria Jeannette Castillo Ochoa",
+    "cargo": "Encargada de Beneficios y Convenios",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "mjcastillo@ucn.cl",
+    "telefono": "Fono (51) 2209968",
+    "oficina": "EDIF. U / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 975,
+    "nombre": "Sergio Agustin Gonzalez Alvarez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "sgonzale@ucn.cl",
+    "telefono": "Fono (51) 2209786",
+    "oficina": "EDIF. T /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 1030,
+    "nombre": "Carlos Bonilla Lanas",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias Juridicas",
+    "email": "carlos.bonilla@ce.ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1145,
+    "nombre": "Nancy Isabel Araya Torres",
+    "cargo": "Académica",
+    "unidad": "Departamento De Enseñanza De Las Ciencias Basicas En El Campus Guayacan",
+    "email": "nancya@ucn.cl",
+    "telefono": "Fono (51) 2206800",
+    "oficina": "Depto. Ciencias Básicas Of. 209",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 1167,
+    "nombre": "Nelson Diaz Leiva",
+    "cargo": "Académico",
+    "unidad": "Facultad de Ciencias de Ingeniería y Construcción",
+    "email": "ndiaz@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1194,
+    "nombre": "Monica Guzman Gonzalez",
+    "cargo": "Decana",
+    "unidad": "Facultad de Humanidades",
+    "email": "moguzman@ucn.cl",
+    "telefono": "Fono (55)2355828",
+    "oficina": "Pab. X1, of. 208",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1212,
+    "nombre": "Sabina Montoya Marquez",
+    "cargo": "Jefa de Carrera",
+    "unidad": "Facultad de Ciencias",
+    "email": "samont@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1213,
+    "nombre": "Paulina Andrea Gutierrez Zepeda",
+    "cargo": "Secretaria Docente",
+    "unidad": "Escuela de Ciencias Empresariales",
+    "email": "pgutierrez@ucn.cl",
+    "telefono": "Fono (51) 2209999",
+    "oficina": "EDIF. E / OF. 209",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 1402,
+    "nombre": "Veronica De Lourdes Arancibia Ramirez",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Medicina",
+    "email": "varancibia@ucn.cl",
+    "telefono": "Fono (51) 2205987",
+    "oficina": "EDIF. E / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 1415,
+    "nombre": "Jorge Alberto Viorklumds Diaz",
+    "cargo": "Director de Informática",
+    "unidad": "Dirección de Informática",
+    "email": "jorgev@ucn.cl",
+    "telefono": "Fono (55)2355940",
+    "oficina": "Pab. V1",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1540,
+    "nombre": "Pedro Alexander Robles Jopia",
+    "cargo": "Director de Biblioteca Antofagasta",
+    "unidad": "Biblioteca Antofagasta",
+    "email": "probles@ucn.cl",
+    "telefono": "Fono (55)2355317",
+    "oficina": "Pab. T 3°piso",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1752,
+    "nombre": "Nelson Patricio Fernandez Vergara",
+    "cargo": "Vicerrector Académico",
+    "unidad": "Vicerrectoría Académica",
+    "email": "nefernandez@ucn.cl",
+    "telefono": "Fono (55)2355004",
+    "oficina": "Pab. L, of. 209",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 1873,
+    "nombre": "Hans Gundermann Kroll",
+    "cargo": "Académico",
+    "unidad": "Instituto de Investigaciones Arqueológicas y Museo",
+    "email": "hgunder@ucn.cl",
+    "telefono": "Fono (55) 2851066",
+    "oficina": "",
+    "direccion": "Instituto de Investigaciones Arqueológicas y Museo R.P. Gustavo Le paige, San Pedro de Atacama - Chile"
+  },
+  {
+    "id": 2379,
+    "nombre": "Pilar Andrea Haye Molina",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "phaye@ucn.cl",
+    "telefono": "Fono (51) 2209904",
+    "oficina": "EDIF. X / OF. 53",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 2497,
+    "nombre": "Osvaldo Antonio Iribarren Brown",
+    "cargo": "Decano",
+    "unidad": "Facultad de Medicina",
+    "email": "osvaldoi@ucn.cl",
+    "telefono": "Fono (51) 2209845",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 2542,
+    "nombre": "Viviana Vera Lara",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias",
+    "email": "vvera@ucn.cl",
+    "telefono": "Fono (55) 2355386",
+    "oficina": "Pab. Ñ 3",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3026,
+    "nombre": "Anna Maria Vandini Santunioni",
+    "cargo": "Académica",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "avandini@ucn.cl",
+    "telefono": "Fono (51) 2209964",
+    "oficina": "EDIF. C / OF. 211",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3043,
+    "nombre": "Gonzalo Claps Sanchez",
+    "cargo": "Académico",
+    "unidad": "Facultad de Medicina",
+    "email": "gclaps@ucn.cl",
+    "telefono": "Fono (51) 2209817",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3049,
+    "nombre": "Irma Pinto Rojas",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias",
+    "email": "ipinto@ucn.cl",
+    "telefono": "Fono (55) 2355524",
+    "oficina": "Pab. N Oficina N-107",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3056,
+    "nombre": "Javier Enrique Cortes Cortes",
+    "cargo": "Académico",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "jcortes@ucn.cl",
+    "telefono": "Fono (51) 2209964",
+    "oficina": "EDIF. C / OF. 211",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3059,
+    "nombre": "Alejandro Roberto Cerda Sanhueza",
+    "cargo": "Académico",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "acerda@ucn.cl",
+    "telefono": "Fono (51) 2209952",
+    "oficina": "EDIF. C / OF. 110",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3063,
+    "nombre": "Alonso Jose Pavez Salinas",
+    "cargo": "Académico",
+    "unidad": "Facultad de Medicina",
+    "email": "apavez@ucn.cl",
+    "telefono": "Fono (51) 2209817",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3075,
+    "nombre": "Patricia Tatiana Pozo Sanhueza",
+    "cargo": "Directora de Departamento",
+    "unidad": "Facultad de Ciencias",
+    "email": "ppozo@ucn.cl",
+    "telefono": "Fono (55) 2355625",
+    "oficina": "Pab. Ñ 3",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3076,
+    "nombre": "Rudyard Mauricio Loyola Cortes",
+    "cargo": "Académico",
+    "unidad": "Instituto Superior de Ciencias Religiosas",
+    "email": "rudyard@ucn.cl",
+    "telefono": "Fono (51) 2209950",
+    "oficina": "EDIF. C / OF. 107",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3096,
+    "nombre": "Percy Pena Vicuna",
+    "cargo": "Académico",
+    "unidad": "Facultad de Humanidades",
+    "email": "ppenav@ucn.cl",
+    "telefono": "Fono (55) 2355862",
+    "oficina": "Pab. X-4 Ofic. 205",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3273,
+    "nombre": "Claudia Isabel Violeta Pardo Pino",
+    "cargo": "Jefa Sección Desarrollo y Evaluación",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "cpardo@ucn.cl",
+    "telefono": "Fono (51) 2209730",
+    "oficina": "EDIF. U / OF. 109 Sección Desarrollo y Evaluación",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3274,
+    "nombre": "Praxedes Natalia Virginia Munoz Parra",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "praxedes@ucn.cl",
+    "telefono": "Fono (51) 2209802",
+    "oficina": "EDIF. X / OF. 67",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3335,
+    "nombre": "Claudio Alberto Lamadrid Luna",
+    "cargo": "Laboratorista",
+    "unidad": "Liemun",
+    "email": "clamadrid@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3342,
+    "nombre": "Andres Cipriano Ibacache Ibacache",
+    "cargo": "Estafeta - Campus Clínicos",
+    "unidad": "Facultad de Medicina",
+    "email": "ibacache@ucn.cl",
+    "telefono": "Fono (51) 2209886",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3345,
+    "nombre": "Maria Cecilia Gonzalez Tapia",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "mcgonzale@ucn.cl",
+    "telefono": "Fono (51) 2209712",
+    "oficina": "EDIF. J1 / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3581,
+    "nombre": "Claudia Predelinda Zuloaga Parra",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Facultad de Medicina",
+    "email": "claudiaz@ucn.cl",
+    "telefono": "Fono (51) 2209825",
+    "oficina": "EDIF. E / OF. 101",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3582,
+    "nombre": "Ana Luisa Valdivia Hernandez",
+    "cargo": "Encargada de Laboratorio",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "",
+    "telefono": "Fono (51) 2209807",
+    "oficina": "EDIF. X / OF. 05",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3589,
+    "nombre": "Olga Karina Miranda Mondaca",
+    "cargo": "Secretaria Ejecutiva",
+    "unidad": "Dirección General Estudiantil",
+    "email": "kmiranda@ucn.cl",
+    "telefono": "Fono (55) 235700",
+    "oficina": "Pab. M, Of. 221",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3592,
+    "nombre": "Patricia Leonor Cruz Mamani",
+    "cargo": "Encargada de Tienda",
+    "unidad": "Instituto de Investigaciones Arqueológicas y Museo",
+    "email": "pcruz@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Instituto de Investigaciones Arqueológicas y Museo R.P. Gustavo Le paige, San Pedro de Atacama - Chile"
+  },
+  {
+    "id": 3694,
+    "nombre": "Hector Ugarte Echeverria",
+    "cargo": "Académico",
+    "unidad": "Facultad de Medicina",
+    "email": "hugarte@ucn.cl",
+    "telefono": "Fono (51) 2209817",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3748,
+    "nombre": "Edelmira Del Carmen Saravia Galaz",
+    "cargo": "Encargada Administrativa Residencia Universitaria UCN",
+    "unidad": "Dirección de Relaciones Institucionales",
+    "email": "esaravia@ucn.cl",
+    "telefono": "Fono (2) 22226216",
+    "oficina": "Santiago",
+    "direccion": "Avenida Libertador Bernardo O\u0027Higgins 292 OF. 22, Santiago - Chile"
+  },
+  {
+    "id": 3751,
+    "nombre": "Roberto Mario Urrutia Robles",
+    "cargo": "Asistente de Investigación",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "rmurrutia@ucn.cl",
+    "telefono": "Fono (51) 2209756",
+    "oficina": "EDIF. X2 /",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3765,
+    "nombre": "Ernesto Eduardo Cortes Pizarro",
+    "cargo": "Director de Escuela",
+    "unidad": "Facultad de Ciencias del Mar",
+    "email": "ecortes@ucn.cl",
+    "telefono": "Fono (51) 2205957",
+    "oficina": "EDIF. W / 3º Piso",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3769,
+    "nombre": "Fernando Armando Moraga Cordero",
+    "cargo": "Académico",
+    "unidad": "Facultad de Medicina",
+    "email": "",
+    "telefono": "Fono (51) 2205990",
+    "oficina": "EDIF. J / OF. 118",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3770,
+    "nombre": "Cecilia Borquez Romero",
+    "cargo": "Jefa de Carrera",
+    "unidad": "Facultad de Medicina",
+    "email": "cborquez@ucn.cl",
+    "telefono": "Fono (51) 2209817",
+    "oficina": "EDIF. J / OF. 200",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3771,
+    "nombre": "Jorge Loreto Gonzalez Parraguez",
+    "cargo": "Jefe de Turno",
+    "unidad": "Servicios Del Campus",
+    "email": "jgonzalezp@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 3785,
+    "nombre": "Ricardo Walter Reitter Sandoval",
+    "cargo": "Encargado Taller De Radio",
+    "unidad": "Facultad de Humanidades",
+    "email": "rreitter@ucn.cl",
+    "telefono": "Fono (55) 2355758",
+    "oficina": "Pab. X-6 Ofic. 112",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3805,
+    "nombre": "Roberto Gustavo Munoz Rojas",
+    "cargo": "Guardia de Seguridad",
+    "unidad": "Dirección de Servicios",
+    "email": "romunoz@ucn.cl",
+    "telefono": "",
+    "oficina": "",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3825,
+    "nombre": "Carolina Rojas Cordova",
+    "cargo": "Directora de Departamento",
+    "unidad": "Facultad de Ingeniería y Ciencias Geológicas",
+    "email": "carojas@ucn.cl",
+    "telefono": "Fono (55) 235 5151",
+    "oficina": "Pab. Y-1 Of.- 318",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 3845,
+    "nombre": "Frank Abel Pérez Disotuar",
+    "cargo": "Encargado de Servicios On Line",
+    "unidad": "Dirección de Informática",
+    "email": "fperez@ucn.cl",
+    "telefono": "Fono (55) 2355939",
+    "oficina": "Pab. V Oficina 102",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 4055,
+    "nombre": "Gonzalo Antonio Herrera Flores",
+    "cargo": "Académico",
+    "unidad": "Facultad de Medicina",
+    "email": "gherreraf@ucn.cl",
+    "telefono": "Fono (51) 2209864",
+    "oficina": "",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 4221,
+    "nombre": "Manuel Ivan Rivas Carrion",
+    "cargo": "Jefe de Turno",
+    "unidad": "Servicios Del Campus",
+    "email": "mrivas@ucn.cl",
+    "telefono": "Fono (51) 2209891",
+    "oficina": "EDIF. Ñ2 / OF. 100",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  },
+  {
+    "id": 4223,
+    "nombre": "Marcia Perez Fehrmann",
+    "cargo": "Académica",
+    "unidad": "Facultad de Ciencias",
+    "email": "maperez@ucn.cl",
+    "telefono": "Fono (55) 2355610",
+    "oficina": "Pab. Ñ Ofic. 315",
+    "direccion": "Avenida Angamos 0610, Antofagasta - Chile"
+  },
+  {
+    "id": 4392,
+    "nombre": "Alejandra Ximena Diaz Moreno",
+    "cargo": "Encargada Activo Fijo",
+    "unidad": "Dirección de Administración y Finanzas",
+    "email": "adiazm@ucn.cl",
+    "telefono": "Fono (51) 2209726",
+    "oficina": "EDIF. A / OF. 118",
+    "direccion": "Larrondo N° 1281, Coquimbo - Chile"
+  }
+]
